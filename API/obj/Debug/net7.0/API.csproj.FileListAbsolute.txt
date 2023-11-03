@@ -67,3 +67,11 @@ C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\client\package.json
 C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\client\tsconfig.app.json
 C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\client\tsconfig.json
 C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\client\tsconfig.spec.json
+C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "vPxtI4arrTGC5N2t2fuQExUsNa0Aq3UBOHnIQZP1BqZCtAGiHLTEYlvIJ5ifB8Nw4HxR/2TYQHSVJ28FRA930g==",
+  "dgSpecHash": "Gn+p5NKZH7QujG6vG5AvYBOPJN07woe4vF/9HzLfQRoewVb86SsoHDn7KIOOHNqmq9gPALtyemZmGPYGV9B1vw==",
   "success": true,
   "projectFilePath": "C:\\Users\\dougl\\source\\repos\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\dougl\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\dougl\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\dougl\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.13\\microsoft.aspnetcore.authentication.jwtbearer.7.0.13.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\dougl\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.11\\microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
     "C:\\Users\\dougl\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\dougl\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

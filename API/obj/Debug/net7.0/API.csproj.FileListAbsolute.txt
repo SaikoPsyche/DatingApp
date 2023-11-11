@@ -75,3 +75,6 @@ C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\System.IdentityModel.
 C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\Data\UserSeedData.json
+C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\dougl\source\repos\DatingApp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

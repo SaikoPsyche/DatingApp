@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace API.DTO
 {
-    public class MemberDTO
+    public class MemberDto
     {
         public int Id { get; set; }
 
@@ -26,7 +26,7 @@ namespace API.DTO
 
         public string Interests { get; set; }
 
-        public List<PhotoDTO> Photos { get; set; }
+        public List<PhotoDto> Photos { get; set; }
 
         public DateTime Created { get; set; } = DateTime.UtcNow;
 
